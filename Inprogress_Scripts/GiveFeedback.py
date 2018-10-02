@@ -9,9 +9,9 @@ import datetime
 class InterviewFeedback:
 
     def __init__(self):
-        # -----------------------
+        # ---------------------
         # CRPO LOGIN APPLICATION
-        # -----------------------
+        # ---------------------
         self.header = {"content-type": "application/json"}
         # self.TenantAlias = raw_input('TenantAlias:: ')
         # self.LoginName = raw_input('LoginName:: ')
